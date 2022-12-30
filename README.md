@@ -26,6 +26,8 @@ _The exam consists of 5 independent targets and each target will contain local.t
 - [Bastijn Ouweandijk](https://bastijnouwendijk.com/my-oswa-certification-journey)
 - [Hy3n4](https://medium.com/@hy3n4/oswa-experience-and-exam-preparation-guide-b4270348f2fa)
 - [r0b0tG4nG](https://r0b0tg4ng.github.io/posts/OSWA/)
+- [Gunnar Andrews](https://zaqqaza.medium.com/my-oswa-review-guide-5b24266d4b62)
+- [Nick Berrie](https://www.machevalia.blog/blog/oswa-web-200-experience)
 
 ### Notes and General References
 - [OSWA-Notes - exetr](https://github.com/exetr/OSWA-Notes)
