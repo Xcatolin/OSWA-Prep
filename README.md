@@ -1,18 +1,4 @@
-<pre>
-   ____   _______          __       ______                     
-  / __ \ / ____\ \        / /\     |  ____|                    
- | |  | | (___  \ \  /\  / /  \    | |__  __  ____ _ _ __ ___  
- | |  | |\___ \  \ \/  \/ / /\ \   |  __| \ \/ / _` | '_ ` _ \ 
- | |__| |____) |  \  /\  / ____ \  | |____ >  < (_| | | | | | |
-  \____/|_____/    \/  \/_/    \_\ |______/_/\_\__,_|_| |_| |_|
- |  __ \                              | | (_)                  
- | |__) | __ ___ _ __   __ _ _ __ __ _| |_ _  ___  _ __        
- |  ___/ '__/ _ \ '_ \ / _` | '__/ _` | __| |/ _ \| '_ \       
- | |   | | |  __/ |_) | (_| | | | (_| | |_| | (_) | | | |      
- |_|   |_|  \___| .__/ \__,_|_|  \__,_|\__|_|\___/|_| |_|      
-                | |                                            
-                |_|                                            
-</pre>
+![Thumbnail](https://raw.githubusercontent.com/Xcatolin/OSWA-Prep/main/thumb.jpg)
 
 ## Offensive Security Web Assessor (OSWA)
 _The exam consists of 5 independent targets and each target will contain local.txt and proof.txt files._
